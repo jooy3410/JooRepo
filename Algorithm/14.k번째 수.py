@@ -5,3 +5,4 @@ for t in range(T):
     a = a[s-1:e]
     a.sort()
     print("#%d $d" %(t, a[k-1]))
+###
